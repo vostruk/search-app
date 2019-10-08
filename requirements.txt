@@ -1,0 +1,7 @@
+flask
+pytest
+google
+beautifulsoup4
+requests
+newspaper3k
+data_object
